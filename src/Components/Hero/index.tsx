@@ -72,7 +72,8 @@ export function Hero() {
           )}
         >
           <Link
-            href="#"
+            href="https://drive.google.com/file/d/1hi-uzrKA539oLDgofYmvJ3-Bz_GVTIVH/view?usp=sharing"
+            target="_blank"
             className={clsx(
               buttonClasses,
               "bg-neutral-400 hover:bg-neutral-500"
