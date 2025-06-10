@@ -13,7 +13,7 @@ export function Project() {
       >
         <ProjectCard
           title="Todo-list"
-          src="/images/todo-list.png"
+          src="/nextjs-github-pages/images/todo-list.png"
           alt="imagem do projeto"
           linkBtn="https://github.com/KevenFernandes/todo-list"
         >
@@ -23,7 +23,7 @@ export function Project() {
         </ProjectCard>
         <ProjectCard
           title="My Blog"
-          src="/images/my-blog.png"
+          src="/nextjs-github-pages/images/my-blog.png"
           alt="imagem do projeto"
           linkBtn="https://github.com/KevenFernandes/my-blog-next-react"
         >
@@ -34,7 +34,7 @@ export function Project() {
         </ProjectCard>
         <ProjectCard
           title="Receitas Jojo"
-          src="/images/receitas-jojo.png"
+          src="/nextjs-github-pages/images/receitas-jojo.png"
           alt="imagem do projeto"
           linkBtn="https://github.com/KevenFernandes/receitas-jojo.git"
         >
@@ -45,7 +45,7 @@ export function Project() {
         </ProjectCard>
         <ProjectCard
           title="Guia Marketing Digital"
-          src="/images/guia-marketing.png"
+          src="/nextjs-github-pages/images/guia-marketing.png"
           alt="imagem do projeto"
           linkBtn="https://github.com/KevenFernandes/guia-marketing-digital.git"
         >
@@ -55,7 +55,7 @@ export function Project() {
         </ProjectCard>
         <ProjectCard
           title="Chronos Pomodoro"
-          src="/images/chronos-pomodoro.png"
+          src="/nextjs-github-pages/images/chronos-pomodoro.png"
           alt="imagem do projeto"
           linkBtn="https://github.com/KevenFernandes/project-chronos.git"
         >
@@ -66,7 +66,7 @@ export function Project() {
         </ProjectCard>
         <ProjectCard
           title="Portfolio"
-          src="/images/shaun-and-bitzer.jpg"
+          src="/nextjs-github-pages/images/shaun-and-bitzer.jpg"
           alt="imagem do projeto"
           linkBtn="https://www.google.com/"
         >
