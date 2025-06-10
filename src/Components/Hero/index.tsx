@@ -94,7 +94,8 @@ export function Hero() {
       <div
         className={clsx(
           "position absolute bottom-30",
-          "h-[2px] w-sm bg-neutral-600"
+          "h-[2px] w-sm bg-neutral-600",
+          "hidden sm:block"
         )}
       ></div>
     </section>

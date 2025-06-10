@@ -66,9 +66,9 @@ export function Project() {
         </ProjectCard>
         <ProjectCard
           title="Portfolio"
-          src="/images/shaun-and-bitzer.jpg"
+          src="/images/portfolio.png"
           alt="imagem do projeto"
-          linkBtn="https://www.google.com/"
+          linkBtn="https://github.com/KevenFernandes/KevenFernandes.github.io.git"
         >
           <span>React</span>
           <span>Next</span>
